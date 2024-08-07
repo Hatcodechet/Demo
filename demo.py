@@ -17,3 +17,5 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.legend()
 plt.show()
+#thêm
+
